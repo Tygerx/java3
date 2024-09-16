@@ -47,7 +47,7 @@ public class QuizGUI {
         JPanel timerPanel = new JPanel(new FlowLayout(FlowLayout.RIGHT));
         
         // Load the clock icon
-        ImageIcon clockIcon = new ImageIcon("C:\\Users\\TYGER\\Desktop\\clockicon.png");
+        ImageIcon clockIcon = new ImageIcon("C:\\Users\\TYGER\\Desktop\\java\\mocktestclockicon.png");
         JLabel clockLabel = new JLabel(clockIcon);
         timerPanel.add(clockLabel);
 
